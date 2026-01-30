@@ -1,1 +1,2 @@
 # MCWorldControl-BedrockAddon
+> [!TIP]
